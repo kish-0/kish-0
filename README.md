@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kish-0
+- 👀 I’m interested in programming, tech and innovation
+- 🌱 I’m currently learning Rust?
+- 📧 Reach me at senthilkumarkishan@gmail.com
+
+<!---
+kish-0/kish-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
