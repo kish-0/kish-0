@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kish-0
 - 👀 I’m interested in programming, tech and innovation
-- 🌱 I’m currently learning Rust?
 - 📧 Reach me at senthilkumarkishan@gmail.com
 
 <!---
