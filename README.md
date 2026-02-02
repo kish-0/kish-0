@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kish-0
-- 👀 I’m interested in programming, tech and innovation
+- 👀 I’m a Product-minded designer–developer building focused tools and interfaces for founders, interested in programming, tech and innovation
 - 📧 Reach me at senthilkumarkishan@gmail.com
 
 <!---
